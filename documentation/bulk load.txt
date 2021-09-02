@@ -1,0 +1,4 @@
+1. open sqlcmd_load_all_patterns and exec_run_dwh_load
+2. run sqlcmd one file group by 1: MXG
+3. then exec_run only for staging MXG
+4. then both pair for MXS, MGO, MSO to populate staging
